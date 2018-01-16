@@ -1,0 +1,27 @@
+{
+  "name": "koa-compress-more",
+  "version": "1.0.0",
+  "description": "base koa-compress support more type gzip example application/octet-stream",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanghj7/koa-compress-more.git"
+  },
+  "keywords": [
+    "koa",
+    "compress"
+  ],
+  "author": "zhanghj7",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhanghj7/koa-compress-more/issues"
+  },
+  "homepage": "https://github.com/zhanghj7/koa-compress-more#readme",
+  "dependencies": {
+    "koa-compress": "^2.0.0",
+    "fs-extra": "^3.0.1"
+  }
+}
